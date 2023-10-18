@@ -8,7 +8,7 @@
 
 
 #LINK GITHUB:
-#     Pagina in aggiornamento
+#     https://github.com/Giuseppe-P/Esphome-thermostat-ESP32-NEXTION-3.2
 
 substitutions:
   devicename: termostato-nextion-esp32
