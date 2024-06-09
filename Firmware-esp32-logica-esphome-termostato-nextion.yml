@@ -78,7 +78,10 @@ time:
     id: homeassistant_time
 
 sun:
-  latitude: 40.3833897°
+  # inserisci le tue coordinate 
+  # per gestire la luminosità del display 
+  # in funzione dell'alba e del tramonto
+  latitude: 10.3833897°
   longitude: 17.3334502°
   on_sunrise:
         then:
